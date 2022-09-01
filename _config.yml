@@ -1,0 +1,5 @@
+markdown: kramdown
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
