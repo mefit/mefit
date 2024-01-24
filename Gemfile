@@ -1,5 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-ruby '2.7.6'
+ruby '3.2.2'
 
+gem 'foreman'
 gem 'github-pages'
+gem 'webrick'
